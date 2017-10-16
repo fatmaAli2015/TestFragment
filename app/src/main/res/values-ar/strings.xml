@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الأبداع لمكافحة الحشرات و التنظيفات</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="navigation_drawer_close">غلق</string>
+    <string name="navigation_drawer_open">"فتح "</string>
+    <string name="pest_Control">مكافحة الحشرات</string>
+    <string name="Home">الرئيسية</string>
+    <string name="Cleaning">التنظيفات</string>
+    <string name="ContactUs">اتصل بنا</string>
+    <string name="About">نبذة عنا</string>
+    <string name="Gallery">الصور</string>
+    <string name="Videos">فيديوهات</string>
+    <string name="Facebook">الفيسبوك</string>
+    <string name="Twitter">تويتر</string>
+    <string name="News">اخبارنا</string>
+    <string name="OurLocation">موقعنا</string>
+    <string name="BookNow">حجز الموعد</string>
+    <string name="WebSite">موقعنا الألكترونى</string>
+    <string name="DirectCall">الأتصال المباشر</string>
+
+    <string-array name="indexHome">
+        <item>نبذة عنا</item>
+        <item>حجز الموعد</item>
+        <item>مكافحة الحشرات</item>
+        <item>قسم التنظيفات</item>
+        <item>فيديوهات</item>
+        <item>مواقع الاتصال بنا </item>
+    </string-array>
+
+    <string-array name="indexPest">
+        <item>معلومات مكافحة الحشرات</item>
+        <item>صور مكافحة الحشرات</item>
+    </string-array>
+    <string name="title_activity_splash">الابداع لمكافحات ترحب بك</string>
+    <string name="Languages">"اللغات "</string>
+    <string name="title_activity_home">الرئيسية</string>
+</resources>
